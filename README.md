@@ -2,7 +2,7 @@
 
 img here
 
-Demo: _____ 
+Demo: https://lyrics-search-pinardy.herokuapp.com/ 
 
 This project was done with the help of this [tutorial] (https://www.youtube.com/watch?v=NDEt0KdDbhk&index=1&list=PLillGF-RfqbaxgxkKgKk1XlJAVCX31xRI) by Traversy Media. <br>
 
